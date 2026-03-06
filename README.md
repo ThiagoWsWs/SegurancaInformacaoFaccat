@@ -1,13 +1,24 @@
 # SegurancaInformacaoFaccat
 Estudos e trabalhos da disciplina Segurança da Informação
 
-Pilares da Segurança Cibernetica
+# O que é Segurança da Informação
+
+- É um conjunto de praticas que tem como objetivo impedir que os dados de uma empresa caiam nas mãos de pessoas não autorizadas...
+
+# Importância de Investir em Segurança da Informação
+
+- A empresa lida com grandes volumes de informações diariamente, não apenas organizacionais mas também de clientes, acionistas e *stakeholder* (mais informações abaixo). Em determinado momento a empresa sofre em ataque hacker e os todas essas informações são afetadas, além de prejudicar os envolvidos a empresa ainda perde credibilidade por não garantir a segurança das informações de seus meios...
+
+(STAKEHOLDERS) -> são partes interessadas em uma organização, projeto ou iniciativa que têm influência direta ou indireta sobre ela, ou que são afetadas por suas ações e decisões.
+Eles podem incluir indivíduos, grupos, comunidades, instituições ou qualquer entidade que tenha um interesse legítimo no que uma empresa ou projeto realiza.
+
+# Pilares da Segurança Cibernetica
 
 CID - Triade dos pilares...
 
-- confidencialidade -> de dados e privacidade.
-- integridade -> de dados e de sistemas.
-- disponibilidade -> Tem que estar disponivel quando usuario precisar...
+- Confidencialidade -> de dados e privacidade.
+- Integridade -> de dados e de sistemas.
+- Disponibilidade -> Tem que estar disponivel quando usuario precisar...
 
 Ativos = (hardware, software, firmware, informações/dados e telecomunicações)
 
@@ -19,6 +30,10 @@ https://stats.cert.br/incidentes/
 - A perda de confidencialidade consiste na revelação não autorizada de informações.
 - *Relativa a Dados*: Tem como propósito garantir que informações privadas ou confidenciais não fiquem disponíveis nem sejam reveladas a indivíduos não autorizados.
 - *Relativa a privacidade*: Garante controlar ou influenciar quais informações podem ser coletadas e armazenadas, e por quem e para quem tais informações podem ser reveladas.
+
+A *Confidencialidade* está atrelado a privacidade das informações. Ou seja, a garantia de que os dados da empresa não estarão disponíveis nem serão divulgados a indivíduos sem autorização.
+
+Para garantir a confidencialidade, a sua empresa precisa adortar medidadas preventivas, por exemplo, definir o acesso as informações somente para pessoas autorizadas. Também conscientizar toda a equipe para não violar as regras de segurança, e proteger os computadores contra ciberataques, vírus e espionagem...
 
 # Integridade
 - Garante que informações não sejam eliminadas ou modificadas de forma imprópria
