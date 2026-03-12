@@ -39,7 +39,12 @@ Para garantir a confidencialidade, a sua empresa precisa adortar medidadas preve
 - Garante que informações não sejam eliminadas ou modificadas de forma imprópria
 - Garante a autenticidade da informações, tanto para *dados* quanto para *sistemas*
 
+A *integridade* garante a veracidade da informação durante todo seu ciclo de vida. O princípio básico é que informações parmaneçam imutáveis quando estão em repouso ou durante sua transmissão...
+
+Quando armazenada sem um local seguro o atacante poderia modificar a informação sem o conhecimento do proprietario. 
+
 # Disponibilidade
 - Sistemas devem funcionar prontamente quando necessários por usuarios autorizados
 - Tanto o acesso quanto a utilização das informações precisa ser confiável e realizado em tempo adequado
 
+A Disponibilidade está focada no fornecimento da informção, o principio garante que a informação (dados, valores, arquivos e etc) estejam disponiveis 24/7. 
