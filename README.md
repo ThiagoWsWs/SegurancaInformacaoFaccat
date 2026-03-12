@@ -1,4 +1,4 @@
-# SegurancaInformacaoFaccat
+# Seguranca Informacao Faccat
 Estudos e trabalhos da disciplina Segurança da Informação
 
 # O que é Segurança da Informação
