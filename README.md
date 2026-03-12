@@ -49,7 +49,7 @@ Para garantir a confidencialidade, a sua empresa precisa adortar medidadas preve
 
   * Fator Humano - Ações inadvertidas de coloboradores, como clicar em links maliciosos ou compartilhar credenciais que expoem dados confidenciais.
 
-
+Esses ataques exploram falhas técnicas ou comportamentais para violar o sigilo de informações. A proteção envolve criptografia, politicas de segurança robustas, treinamentos continuos e o uso de ferramentas como firewall, antivirus e VPN.
 
 # Integridade
 - Garante que informações não sejam eliminadas ou modificadas de forma imprópria
