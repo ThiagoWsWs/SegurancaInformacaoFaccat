@@ -37,17 +37,17 @@ Para garantir a confidencialidade, a sua empresa precisa adortar medidadas preve
 
 ### Principais ataques que prejudicam a Confidencialidade
 
-  * Phishin - Ataques que enganam usuarios por meio de e-mails ou sites falsos para obter credeciais como senhas e dados pessoais.
+  * *Phishin* - Ataques que enganam usuarios por meio de e-mails ou sites falsos para obter credeciais como senhas e dados pessoais.
 
-  * Eavesdropping (escuta) - Interceptação não autorizada de comunicações em rede, permitindo que atacantes aacessem informações em trânsito.
+  * *Eavesdropping* (escuta) - Interceptação não autorizada de comunicações em rede, permitindo que atacantes aacessem informações em trânsito.
 
-  * Man in the Middle(MITM) - O atacante insere entre duas partes de uma comunicação, monitorando ou alterando os dados trocados sem que os envolvidos percebam.
+  * *Man in the Middle(MITM)* - O atacante insere entre duas partes de uma comunicação, monitorando ou alterando os dados trocados sem que os envolvidos percebam.
 
-  * Pass the hash - Técnica que o criminoso utiliza um hash de senha (em vez da senha real) para se autenticar em sistemas, obtendo acesso sem precisar decifar a senha.
+  * *Pass the hash* - Técnica que o criminoso utiliza um hash de senha (em vez da senha real) para se autenticar em sistemas, obtendo acesso sem precisar decifar a senha.
 
-  * Spyware - Software malicioso que coleta informações pessoais, como senhas e dados de navegação, sem o conhecimento do usuário.
+  * *Spyware* - Software malicioso que coleta informações pessoais, como senhas e dados de navegação, sem o conhecimento do usuário.
 
-  * Fator Humano - Ações inadvertidas de coloboradores, como clicar em links maliciosos ou compartilhar credenciais que expoem dados confidenciais.
+  * *Fator Humano* - Ações inadvertidas de coloboradores, como clicar em links maliciosos ou compartilhar credenciais que expoem dados confidenciais.
 
 Esses ataques exploram falhas técnicas ou comportamentais para violar o sigilo de informações. A proteção envolve criptografia, politicas de segurança robustas, treinamentos continuos e o uso de ferramentas como firewall, antivirus e VPN.
 
