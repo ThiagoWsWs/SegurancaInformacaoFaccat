@@ -73,4 +73,14 @@ Quando armazenada sem um local seguro o atacante poderia modificar a informaçã
 - Sistemas devem funcionar prontamente quando necessários por usuarios autorizados
 - Tanto o acesso quanto a utilização das informações precisa ser confiável e realizado em tempo adequado
 
-A Disponibilidade está focada no fornecimento da informção, o principio garante que a informação (dados, valores, arquivos e etc) estejam disponiveis 24/7. 
+A Disponibilidade está focada no fornecimento da informção, o principio garante que a informação (dados, valores, arquivos e etc) estejam disponiveis 24/7.
+
+### Principais ataques que prejudicam a Disponibilidade
+
+ * *Ataques DDoS (Distributed Denial of Service)* - São os mais comuns e impactantes. Envolve o envio de um volume massivo de requisições simultâneas de múltiplos dispositivos comprometidos(botnets) contra um servidor, rede ou aplicativo, esgotando sua capacidade de processamento e tornando-o inacessível. O Brasil é um dos países com maior número de ataques DDoS globalmente, devido á sua infraestrutura digital ampla e distribuida.
+
+ * *Ataque DoS (Denial of Service)* - Semelhantes ao DDoS, mas originam-se de uma única fonte. O objetivo é sobrecarregar um serviço ou sistema até que ele pare de funcionar, impedindo o acesso legítimo.
+
+ * Ataques de Sobrecarga de Rede* - Técnicas que inundam a rede com tráfego malicioso, causando congestionamento e indisponibilidade de serviços críticos, como bancos, provedores de internet ou plataformas governamentais.
+
+ * *Sabotagem Cibernética* - Ações intencionais para interromper os destruis serviços essenciais, podendo afetar infraestruturas estratégicas, como sistemas de defesa, logística ou comunicação, com impactos em segurança nacional.
