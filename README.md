@@ -1,5 +1,5 @@
-# Seguranca Informacao Faccat
-Estudos e trabalhos da disciplina Segurança da Informação
+# Segurança Informação Faccat
+Dentro deste repositorio tem todos os trabalhos desenvolvidos e anotações referentes a disciplina de Segurança da Informação.
 
 # O que é Segurança da Informação
 
@@ -81,7 +81,7 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
 
  * *Ataque DoS (Denial of Service)* - Semelhantes ao DDoS, mas originam-se de uma única fonte. O objetivo é sobrecarregar um serviço ou sistema até que ele pare de funcionar, impedindo o acesso legítimo.
 
- * Ataques de Sobrecarga de Rede* - Técnicas que inundam a rede com tráfego malicioso, causando congestionamento e indisponibilidade de serviços críticos, como bancos, provedores de internet ou plataformas governamentais.
+ * *Ataques de Sobrecarga de Rede* - Técnicas que inundam a rede com tráfego malicioso, causando congestionamento e indisponibilidade de serviços críticos, como bancos, provedores de internet ou plataformas governamentais.
 
  * *Sabotagem Cibernética* - Ações intencionais para interromper os destruis serviços essenciais, podendo afetar infraestruturas estratégicas, como sistemas de defesa, logística ou comunicação, com impactos em segurança nacional.
 
@@ -92,26 +92,26 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
 
 * Dentro disso temos os conceitos mais comuns utilizados ->
 
-  - Adversário - Agente que ataca ou é ameaça para um ativo.
+  - *Adversário* - Agente que ataca ou é ameaça para um ativo.
  
-  - Ameaça - Potencial para violação de segurança. Possivel perigo que poderia explorar alguma volnerabilidade.
+  - *Ameaça* - Potencial para violação de segurança. Possivel perigo que poderia explorar alguma volnerabilidade.
  
-  - Ataque - Tentativa deliberada de violação da política de segurança existente.
+  - *Ataque* - Tentativa deliberada de violação da política de segurança existente.
  
-  - Contramedida - Procedimento técnico que visa reduzir uma ameaça, vulnerabilidade ou ataque.
+  - *Contramedida* - Procedimento técnico que visa reduzir uma ameaça, vulnerabilidade ou ataque.
  
-  - Politica de Segurança - Regras e práticas que regulamentam como um sistema ou entidade fornece serviços de segurança, de modo a garantir a segurança dos ativos sensíveis e/ou críticos.
+  - *Politica de Segurança* - Regras e práticas que regulamentam como um sistema ou entidade fornece serviços de segurança, de modo a garantir a segurança dos ativos sensíveis e/ou críticos.
  
-  - Ativo - Recurso de sistema. Dados existentes em um sistema de informação. Hardware, software, instalações de redes, equipamentos.
+  - *Ativo* - Recurso de sistema. Dados existentes em um sistema de informação. Hardware, software, instalações de redes, equipamentos.
  
-  - Risco - Chance de perda de segurança. Geralmente expressada pela probabilidade de que uma ameaça explorará uma vulnerabilidade.
+  - *Risco* - Chance de perda de segurança. Geralmente expressada pela probabilidade de que uma ameaça explorará uma vulnerabilidade.
  
-  - Vulnerabilidade - Defeito ou falha em projeto, operação ou gerenciamento de um sustema que poderia ser explorado para violar ativos ou a policita de segurança.
+  - *Vulnerabilidade* - Defeito ou falha em projeto, operação ou gerenciamento de um sustema que poderia ser explorado para violar ativos ou a policita de segurança.
  
     * Categorias de Vulnerabilidade
    
-   - Corrupção - Ativo pode operar de forma inadequada.
- 
-   - Vazamento - Informaçãoes podem estar sendo acessadas por pessoas não autorizadas.
- 
-   - Indisponibilidade - Impossibilidade de acesso à informação, ou problema com lentidão.
+      - *Corrupção* - Ativo pode operar de forma inadequada.
+    
+      - *Vazamento* - Informaçãoes podem estar sendo acessadas por pessoas não autorizadas.
+    
+      - *Indisponibilidade* - Impossibilidade de acesso à informação, ou problema com lentidão.
