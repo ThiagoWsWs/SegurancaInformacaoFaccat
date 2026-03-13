@@ -84,3 +84,34 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
  * Ataques de Sobrecarga de Rede* - Técnicas que inundam a rede com tráfego malicioso, causando congestionamento e indisponibilidade de serviços críticos, como bancos, provedores de internet ou plataformas governamentais.
 
  * *Sabotagem Cibernética* - Ações intencionais para interromper os destruis serviços essenciais, podendo afetar infraestruturas estratégicas, como sistemas de defesa, logística ou comunicação, com impactos em segurança nacional.
+
+## RFC 2828
+ * O que é? - O RFC 2828, intitulado "Internet Security Glossary (Glosário de Segurança da Internet)" é um documento oficial da IETF (Internet Engineering Task Force) que define e padroniza a terminologia na segurança da informação em sistemas de computação em redes.
+
+ - Baicamente -> Documento que padroniza o significado de varias palavras utilizadas por profissionais da area. (padrões em protocos, conceitos e boas praticas).
+
+* Dentro disso temos os conceitos mais comuns utilizados ->
+
+  - Adversário - Agente que ataca ou é ameaça para um ativo.
+ 
+  - Ameaça - Potencial para violação de segurança. Possivel perigo que poderia explorar alguma volnerabilidade.
+ 
+  - Ataque - Tentativa deliberada de violação da política de segurança existente.
+ 
+  - Contramedida - Procedimento técnico que visa reduzir uma ameaça, vulnerabilidade ou ataque.
+ 
+  - Politica de Segurança - Regras e práticas que regulamentam como um sistema ou entidade fornece serviços de segurança, de modo a garantir a segurança dos ativos sensíveis e/ou críticos.
+ 
+  - Ativo - Recurso de sistema. Dados existentes em um sistema de informação. Hardware, software, instalações de redes, equipamentos.
+ 
+  - Risco - Chance de perda de segurança. Geralmente expressada pela probabilidade de que uma ameaça explorará uma vulnerabilidade.
+ 
+  - Vulnerabilidade - Defeito ou falha em projeto, operação ou gerenciamento de um sustema que poderia ser explorado para violar ativos ou a policita de segurança.
+ 
+    * Categorias de Vulnerabilidade
+   
+   - Corrupção - Ativo pode operar de forma inadequada.
+ 
+   - Vazamento - Informaçãoes podem estar sendo acessadas por pessoas não autorizadas.
+ 
+   - Indisponibilidade - Impossibilidade de acesso à informação, ou problema com lentidão.
