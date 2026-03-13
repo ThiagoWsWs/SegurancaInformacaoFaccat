@@ -86,7 +86,9 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
  * *Sabotagem Cibernética* - Ações intencionais para interromper os destruis serviços essenciais, podendo afetar infraestruturas estratégicas, como sistemas de defesa, logística ou comunicação, com impactos em segurança nacional.
 
 # RFC 2828
- ## O que é? - O RFC 2828, intitulado "Internet Security Glossary (Glosário de Segurança da Internet)" é um documento oficial da IETF (Internet Engineering Task Force) que define e padroniza a terminologia na segurança da informação em sistemas de computação em redes.
+ ## O que é? 
+ 
+ -O RFC 2828, intitulado "Internet Security Glossary (Glosário de Segurança da Internet)" é um documento oficial da IETF (Internet Engineering Task Force) que define e padroniza a terminologia na segurança da informação em sistemas de computação em redes.
 
  - Baicamente -> Documento que padroniza o significado de varias palavras utilizadas por profissionais da area. (padrões em protocos, conceitos e boas praticas).
 
