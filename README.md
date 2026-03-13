@@ -92,7 +92,7 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
 
  - Baicamente -> Documento que padroniza o significado de varias palavras utilizadas por profissionais da area. (padrões em protocos, conceitos e boas praticas).
 
-## Conceitos Comuns e mais utilizados ->
+## Conceitos Comuns e mais utilizados
 
   - *Adversário* - Agente que ataca ou é ameaça para um ativo.
  
@@ -117,3 +117,13 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
       - *Vazamento* - Informaçãoes podem estar sendo acessadas por pessoas não autorizadas.
     
       - *Indisponibilidade* - Impossibilidade de acesso à informação, ou problema com lentidão.
+ # Tipos de Ataque
+   -  *Ativo* - Forma deliberada de ataque com o proposito de alterar informações ou perjudicar a operação de um sistema.
+   -  *Interno* - Realizado por alguém que possui autorização de acesso, dentro do perímetro de segurança, e realiza ações em aprovação. Conhecido como *Insider*.
+   -  *Passivo* - Ataque que visa obter informações sem a modificação de dados.
+   -  *Externo* - Realizado por pessoa sem autorização, fora do perímetro de segurança. Conhecido como outsider.
+
+# Contramedidas
+  - Meios empregados para lidar com ataques.
+  - Contramedidas são projetadas para impedir ataques(de qualquer tipo) obter êxito.
+  - Quando não for possível impedir um ataque, se faz necessário recuperar os ativos dos efeitos danosos.
