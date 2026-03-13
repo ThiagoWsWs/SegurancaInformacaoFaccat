@@ -63,7 +63,9 @@ A *integridade* garante a veracidade da informação durante todo seu ciclo de v
 
  *  *Envenenamento de dados (data poisoning)* - Em sistemas de aprendizado de máquina, invasores introduzem dados maliciosos em conjuntos de treinamento fazendo com que os modelos aprendam padrões errados, criem *backdoors* ocultos ou produzam resultados com viés.
 
- *  *Ataques de negação 
+ *  *Ataques de negação de serviço(DoS/DDoS)* - Embora principalmente afetem a disponibilidade, esses ataques podem também impactar a integridade ao sobrecarregar sistemas e causar falhas que levam à corrupção de dados durante o processamento.
+
+ *  *Modificação de Dados* - O atacante altera informações sem autorização, como registros financeiros, dados de saúde ou arquivos críticos, comprometando a confiabilidade da informação.
 
 Quando armazenada sem um local seguro o atacante poderia modificar a informação sem o conhecimento do proprietario. 
 
