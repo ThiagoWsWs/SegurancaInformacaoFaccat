@@ -108,7 +108,7 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
  
   - *Vulnerabilidade* - Defeito ou falha em projeto, operação ou gerenciamento de um sustema que poderia ser explorado para violar ativos ou a policita de segurança.
  
-    * Categorias de Vulnerabilidade
+    ### Categorias de Vulnerabilidade
    
       - *Corrupção* - Ativo pode operar de forma inadequada.
     
