@@ -57,6 +57,14 @@ Esses ataques exploram falhas técnicas ou comportamentais para violar o sigilo 
 
 A *integridade* garante a veracidade da informação durante todo seu ciclo de vida. O princípio básico é que informações parmaneçam imutáveis quando estão em repouso ou durante sua transmissão...
 
+ ### Principais ataques que prejudicam a Integridade
+
+ * *Ataques de Falsificação (Spoofing)* - O invasor se passa por um sistema ou usuário legítimo para alterar ou transmitir dados falsos, comprometendo a autenticidade da informação.
+
+ *  *Envenenamento de dados (data poisoning)* - Em sistemas de aprendizado de máquina, invasores introduzem dados maliciosos em conjuntos de treinamento fazendo com que os modelos aprendam padrões errados, criem *backdoors* ocultos ou produzam resultados com viés.
+
+ *  *Ataques de negação 
+
 Quando armazenada sem um local seguro o atacante poderia modificar a informação sem o conhecimento do proprietario. 
 
 # Disponibilidade
