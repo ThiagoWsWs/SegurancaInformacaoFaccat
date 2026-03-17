@@ -151,3 +151,9 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
    Exemplos de ataque ->
      Invasão de sistemas por meio de SQL Injection
      https://canaltech.com.br/seguranca/falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress/
+  ## Fraude
+  - *Ameaça à integridade de dados ou sistemas* -
+    ### Tipos de Ataque à Integridade de dados ou sistemas -
+    - *Personificação* - Quando um atacante tenta se passar por um usuário autorizado para acessar um sistema.
+      O atacante envia um software malicioso(Cavalado de Troia) à vitima. 
+    
