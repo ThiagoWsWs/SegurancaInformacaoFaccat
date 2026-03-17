@@ -127,3 +127,27 @@ A Disponibilidade está focada no fornecimento da informção, o principio garan
   - Meios empregados para lidar com ataques.
   - Contramedidas são projetadas para impedir ataques(de qualquer tipo) obter êxito.
   - Quando não for possível impedir um ataque, se faz necessário recuperar os ativos dos efeitos danosos.
+
+# Consequências de ameaça
+ ## Revelação não Autorizada.
+ - *Ameaça à confidencialidade* -
+   ### Tipos de Ataque à Confidencialidade -
+   - *Exposição* - Divulgação de informações sensíveis. Pode ser deliberada ou não (erro humano, hardware ou software).
+   Exemplos de ataques ->
+       https://gizbr.uol.com.br/falha-anhembi-morumbi-dados-pessoais-alunos/
+       https://tecnoblog.net/noticias/whatsapp-expoe-convites-grupo-busca-google/
+
+   - *Interceptação* - Acesso não autorizado às informações que transitam de um ponto para o outro.
+   Exemplos de ataques ->
+       Interceptação de emails, telefonemas, tráfego de dados diversos.
+       https://oglobo.globo.com/mundo/noticia/2026/03/04/camaras-de-transito-e-torres-de-telefone-hackeadas-cia-vigiou-durante-anos-a-mesma-rua-antes-da-operacao-que-matou-khamenei.ghtml
+
+   - *Inferência* - Identificação não autorizada de dados a partir de consultas parciais.
+   Exemplos de ataque ->
+     Ao acessar uma rede doméstica, o atacante recebe um determinado endereço de IP, e infere que demais equipamentos que estão na mesma faixa de IP.
+     Através de acesso direto a rede com cabos ou rede wifi, é possivel realizar a inferência de dispositivos conectados como celulares ou outros computadores, acessando os dados através da rede LAN.
+
+   - *Intrusão* - Quando um atacante burla proteções de controles de acesso para obter dados sensíveis.
+   Exemplos de ataque ->
+     Invasão de sistemas por meio de SQL Injection
+     https://canaltech.com.br/seguranca/falha-de-sql-injection-em-plugin-ameaca-mais-de-400-mil-sites-no-wordpress/
